@@ -1,0 +1,14 @@
+<?php
+    
+    $name=readline("INGRESA TU NOMBRE");
+    $nameC=readline("INGRESA EL NOMBRE DE TU CRUSH");
+
+    if ($name == "andrea" and $nameC =="david")
+    {
+        echo "ANDREA Y DAVID SON EL UNO PARA EL OTRO";
+    }
+    else
+    {
+        echo "NO NO NO, DIGITA DE NUEVO";
+    }
+?>
